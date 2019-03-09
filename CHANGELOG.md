@@ -1,7 +1,7 @@
-#Changelogs
+# Changelogs
 
 **Known Bugs :**
-- None, you name it.
+- Bug skak raja.
 
 **To-do :**
 - Tambahkan pengecekan menang kalah.
